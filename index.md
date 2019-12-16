@@ -10,16 +10,13 @@ layout: home
   }
 </style>
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-jeremy--roche-blue.svg?logo=linkedin)](https://www.linkedin.com/in/jeremy-roche/)
-[![Github](https://img.shields.io/badge/Github-Jeremy38100-lightgrey.svg?logo=github)](https://github.com/Jeremy38100)
-![Mail](https://img.shields.io/badge/Mail-jeremyroche5@gmail.com-red.svg?logo=gmail)
-![Phone](https://img.shields.io/badge/+33-7 86 96 31 09-green.svg)
-
-## 👤 A propos
+## <img src="https://akveo.github.io/eva-icons/outline/svg/person-outline.svg" height="24"> A propos
 
 `TODO`
 
-## 📦 Quelques Projets
+<br>
+
+## <img src="https://akveo.github.io/eva-icons/outline/svg/github-outline.svg" height="24"> Quelques Projets
 ___
 ### sun-horizon
 ![status](https://img.shields.io/badge/Status-In Progress-blue.svg)
@@ -45,7 +42,7 @@ ___
 
 <br>
 
-## 🖇 Expériences professionnelles
+## <img src="https://akveo.github.io/eva-icons/outline/svg/attach-outline.svg" height="24"> Expériences professionnelles
 
 ### `2019-` - <img src="https://www.google.com/s2/favicons?domain=www.situ8ed.com"> Situ8ed - Ingénieur R&D
 
@@ -58,7 +55,7 @@ ___
      - Réalisation du plugin Ionic pour Android
 
 
-| Technologies |  <img height="19" src="{{site.logo-angular}}"> Angular 7 -  <img height="19" src="{{site.logo-ionic}}"> Ionic 4 -  <img height="19" src="{{site.logo-appengine}}"> Google AppEngine - |
+| Technologies |  <img height="19" src="{{site.logo-angular}}"> Angular 7 -  <img height="19" src="{{site.logo-ionic}}"> Ionic 4 -  <img height="19" src="{{site.logo-appengine}}"> Google AppEngine |
 | Gestion de code - CI | <img height="19" src="{{site.logo-gerrit}}"> Gerrit - <img height="19" src="{{site.logo-jenkins}}"> Jenkins |
 
 ### `2018-19` - <img src="https://www.google.com/s2/favicons?domain=www.situ8ed.com"> Situ8ed - Apprentissage
@@ -74,14 +71,13 @@ ___
 
 Conception et réalisation d'interfaces de datavisualisation de données d'un systeme Unix.
 
-| Technologies | Javascript - D3.js - GWT |
+| Technologies | <img height="19" src="{{site.logo-js}}"> Javascript - <img height="19" src="{{site.logo-d3}}"> D3.js - GWT |
 | Gestion de projet / code | Jira - <img height="19" src="{{site.logo-gerrit}}"> Gerrit - Scrum |
 | | 🇬🇧🇯🇵 Contexte International |
 
+<br>
 
-### `2019`
-
-## 📚 Formations
+## <img src="https://akveo.github.io/eva-icons/outline/svg/award-outline.svg" height="24"> Formations
 
 ### `2019` Master MIAGE
 
@@ -97,6 +93,8 @@ Option **Gestion** |<img src="{{site.logo-uga}}" height="40"> | 🔗 [Descriptio
 {:.education}
 Lycée Edouard Herriot (Voiron 38) | _Mention Bien_
 
-## Mais surtout...
+<br>
+
+## <img src="https://akveo.github.io/eva-icons/outline/svg/heart-outline.svg" height="24"> Mais surtout...
 
 `TODO`
