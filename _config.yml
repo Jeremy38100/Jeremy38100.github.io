@@ -22,6 +22,21 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+# logo
+logo-gerrit: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Gerrit_icon.svg/1200px-Gerrit_icon.svg.png
+logo-java: http://tecnologiaenvivo.com/wp-content/uploads/2015/04/JAVA-ICON.png
+logo-cpp: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png
+logo-grafana: https://logodix.com/logo/1736776.png
+logo-python: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png
+logo-js: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png
+logo-d3: https://raw.githubusercontent.com/d3/d3-logo/master/d3.png
+logo-angular: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png
+logo-ionic: https://miro.medium.com/max/512/1*eWai1Gz7mh2UOddtau5MGg.png
+logo-appengine: https://miro.medium.com/max/498/1*VHYGqjhONSJ20pRlIUbg7w.png
+logo-jenkins: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/226px-Jenkins_logo.svg.png
+
+logo-uga: https://www.univ-grenoble-alpes.fr/medias/photo/logo-uga_1536325456233-png?ID_FICHE=177412
+
 # Build settings
 markdown: kramdown
 theme: minima
