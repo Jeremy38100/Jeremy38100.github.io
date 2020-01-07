@@ -26,6 +26,16 @@ ___
 ![techno](https://img.shields.io/badge/-TypeScript-blue.svg?logo=typescript)
 
 Get Horizon profile based on topography from a (latitude, longitude) point.
+[🔗 Link](https://github.com/Jeremy38100/sun-horizon)
+
+___
+### simu-roller-blind
+![status](https://img.shields.io/badge/Status-In Progress-blue.svg)
+[![Github](https://img.shields.io/badge/Jeremy38100/-simu--roller--blind-lightgrey.svg?logo=github)](https://github.com/Jeremy38100/simu-roller-blind)
+![techno](https://img.shields.io/badge/-Bidouille-darkred.svg?logo=raspberry%20pi)
+
+How I managed (maybe one day) to remote control my roller blinds.
+[🔗 Link](https://github.com/Jeremy38100/simu-roller-blind)
 
 ___
 ### cadastre-cli
@@ -37,6 +47,7 @@ ___
 ![techno](https://img.shields.io/badge/-JavaScript-grey.svg?logo=javascript)
 
 Query french cadastre from "commune" , "section" and "numero de parcelle"
+[🔗 Link](https://github.com/Jeremy38100/cadastre-cli)
 
 ___
 
@@ -97,4 +108,8 @@ Lycée Edouard Herriot (Voiron 38) | _Mention Bien_
 
 ## <img src="https://akveo.github.io/eva-icons/outline/svg/heart-outline.svg" height="24"> Mais surtout...
 
-`TODO`
+- 🥕☀️ En route vers l'autonomie alimentaire et énergétique !
+
+<br>
+
+Dernière mise à jour: Janvier 2020
