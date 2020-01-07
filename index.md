@@ -10,13 +10,18 @@ layout: home
   }
 </style>
 
-## <img src="https://akveo.github.io/eva-icons/outline/svg/person-outline.svg" height="24"> A propos
+<a href="#about">A propos</a> -
+<a href="#projects">Quelques projets</a> -
+<a href="#jobs">Expériences professionnelles</a> -
+<a href="#education">Formations</a>
+
+## <img id="about" src="https://akveo.github.io/eva-icons/outline/svg/person-outline.svg" height="24"> A propos
 
 `TODO`
 
 <br>
 
-## <img src="https://akveo.github.io/eva-icons/outline/svg/github-outline.svg" height="24"> Quelques Projets
+## <img id="projects" src="https://akveo.github.io/eva-icons/outline/svg/github-outline.svg" height="24"> Quelques Projets
 ___
 ### sun-horizon
 ![status](https://img.shields.io/badge/Status-In Progress-blue.svg)
@@ -53,7 +58,7 @@ ___
 
 <br>
 
-## <img src="https://akveo.github.io/eva-icons/outline/svg/attach-outline.svg" height="24"> Expériences professionnelles
+## <img id="jobs" src="https://akveo.github.io/eva-icons/outline/svg/attach-outline.svg" height="24"> Expériences professionnelles
 
 ### `2019-` - <img src="https://www.google.com/s2/favicons?domain=www.situ8ed.com"> Situ8ed - Ingénieur R&D
 
@@ -88,7 +93,7 @@ Conception et réalisation d'interfaces de datavisualisation de données d'un sy
 
 <br>
 
-## <img src="https://akveo.github.io/eva-icons/outline/svg/award-outline.svg" height="24"> Formations
+## <img id="education" src="https://akveo.github.io/eva-icons/outline/svg/award-outline.svg" height="24"> Formations
 
 ### `2019` Master MIAGE
 
@@ -106,7 +111,7 @@ Lycée Edouard Herriot (Voiron 38) | _Mention Bien_
 
 <br>
 
-## <img src="https://akveo.github.io/eva-icons/outline/svg/heart-outline.svg" height="24"> Mais surtout...
+## <img id="finaly" src="https://akveo.github.io/eva-icons/outline/svg/heart-outline.svg" height="24"> Mais surtout...
 
 - 🥕☀️ En route vers l'autonomie alimentaire et énergétique !
 
