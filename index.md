@@ -32,7 +32,7 @@ ___
 ![techno](https://img.shields.io/badge/-TypeScript-blue.svg?logo=typescript)
 
 CLI to search and download images from the web
-[🔗 Link](https://github.com/Jeremy38100/cadastre-cli)
+[🔗 Link](https://github.com/Jeremy38100/img-dataset)
 
 ___
 ### sun-horizon
