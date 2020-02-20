@@ -23,6 +23,18 @@ layout: home
 
 ## <img id="projects" src="https://akveo.github.io/eva-icons/outline/svg/github-outline.svg" height="24"> Quelques Projets
 ___
+### img-dataset
+
+![status](https://img.shields.io/badge/Status-Stable-green.svg)
+[![Github](https://img.shields.io/badge/Jeremy38100/-img--dataset-lightgrey.svg?logo=github)](https://github.com/Jeremy38100/img-dataset)
+[![npm](https://img.shields.io/npm/v/img-dataset)](https://www.npmjs.com/package/img-dataset)
+[![npm](https://img.shields.io/npm/dt/img-dataset)](https://www.npmjs.com/package/img-dataset)
+![techno](https://img.shields.io/badge/-TypeScript-blue.svg?logo=typescript)
+
+CLI to search and download images from the web
+[🔗 Link](https://github.com/Jeremy38100/cadastre-cli)
+
+___
 ### sun-horizon
 ![status](https://img.shields.io/badge/Status-In Progress-blue.svg)
 [![Github](https://img.shields.io/badge/Jeremy38100/-sun--horizon-lightgrey.svg?logo=github)](https://github.com/Jeremy38100/sun-horizon)
@@ -34,15 +46,6 @@ Get Horizon profile based on topography from a (latitude, longitude) point.
 [🔗 Link](https://github.com/Jeremy38100/sun-horizon)
 
 ___
-### simu-roller-blind
-![status](https://img.shields.io/badge/Status-In Progress-blue.svg)
-[![Github](https://img.shields.io/badge/Jeremy38100/-simu--roller--blind-lightgrey.svg?logo=github)](https://github.com/Jeremy38100/simu-roller-blind)
-![techno](https://img.shields.io/badge/-Bidouille-darkred.svg?logo=raspberry%20pi)
-
-How I managed (maybe one day) to remote control my roller blinds.
-[🔗 Link](https://github.com/Jeremy38100/simu-roller-blind)
-
-___
 ### cadastre-cli
 
 ![status](https://img.shields.io/badge/Status-Stable-green.svg)
@@ -51,7 +54,7 @@ ___
 [![npm](https://img.shields.io/npm/dt/cadastre-cli)](https://www.npmjs.com/package/cadastre-cli)
 ![techno](https://img.shields.io/badge/-JavaScript-grey.svg?logo=javascript)
 
-Query french cadastre from "commune" , "section" and "numero de parcelle"
+CLI to query french cadastre
 [🔗 Link](https://github.com/Jeremy38100/cadastre-cli)
 
 ___
